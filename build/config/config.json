@@ -10,7 +10,7 @@
   "SYMBOL": "RDS",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000,
-  "DISPLAY_COST": Free,
+  "DISPLAY_COST": "Free",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/random-duck-society",
